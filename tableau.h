@@ -1,0 +1,1 @@
+void supprimer0Recurrence(int T[], int N);
